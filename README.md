@@ -1,2 +1,2 @@
 # kukla
-e2e testing with puppeeteer
+WIP: e2e testing with puppeeteer
